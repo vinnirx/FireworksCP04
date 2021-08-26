@@ -34,10 +34,9 @@ Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do ci
  
 
 <img src="/imagem.jpg" width="550">
-x-special/nautilus-clipboard
-copy
-file:///home/gabriel/%C3%81rea%20de%20Trabalho/Jiboa%20Documentos/Ramess%C3%A9s/Ideal%20Abu%20Simbel.jpg
-![Ideal Abu Simbel](https://user-images.githubusercontent.com/61791016/130979197-1c7189f8-7354-435e-87ba-33fa4b77af2f.jpg)
+
+! [01] (https://user-images.githubusercontent.com/61791016/130980085-da7d102c-68f4-4649-b66a-102bce010296.png)
+arquivo: ///home/gabriel/Downloads/02.png file:///home/gabriel/Downloads/03.png![04](https://user-images.githubusercontent.com/61791016/130980232-87cd6dcc-7c72-4fc6-a5d8-903f8673ffb8.png)
 
 
 ## Como usar 
