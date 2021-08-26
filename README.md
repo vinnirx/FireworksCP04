@@ -33,7 +33,7 @@ Arduino
 Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido.
  
 
-<img src="/imagem.jpg" width="550">
+
 
  file:///home/gabriel/Downloads/01.png
 
